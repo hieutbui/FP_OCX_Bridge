@@ -6,7 +6,7 @@
 
 1. Build the solution.
 2. Copy `Interop.FP_CLOCKLib.dll` inside `lib` folder to the built output folder or where you place your executable file.
-3. Using `execFile` or any other method in JavaScript to run the `FP_OCX_Bridge.exe` file.
+3. Using `execFile` in JavaScript or any other method in the language you are playing with to run the `FP_OCX_Bridge.exe` file.
 
 ## Compatible devices
 
