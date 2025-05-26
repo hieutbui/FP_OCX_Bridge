@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\bin\Debug\FP_OCX_Bridge.exe.config
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\bin\Debug\FP_OCX_Bridge.exe
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\bin\Debug\FP_OCX_Bridge.pdb
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\bin\Debug\AxInterop.FP_CLOCKLib.dll
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\obj\Debug\FP_OCX_Bridge.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\obj\Debug\FP_OCX_Bridge.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\obj\Debug\FP_OCX_B.9DFC4068.Up2Date
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\obj\Debug\FP_OCX_Bridge.exe
+C:\Users\PC\source\repos\FP_OCX_Bridge\FP_OCX_Bridge\obj\Debug\FP_OCX_Bridge.pdb
