@@ -1,6 +1,6 @@
 # FP_OCX_Bridge
 
-***This is a bridge to use Ronald Jack SDK 2020 in JavaScript***
+***This is a bridge to use Ronald Jack SDK 2020 in other languages rather than C#***
 
 ## Installation
 
