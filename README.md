@@ -1,6 +1,6 @@
 # FP_OCX_Bridge
 
-***This is a bridge to use Ronald Jack SDK 2020 in other languages rather than C#***
+***This is a bridge to use FP_Clock lib in other languages rather than C#***
 
 ## Installation
 
@@ -24,4 +24,3 @@
 
 ## Attention:
 - This library is not an official library from Ronald Jack and is not responsible for any damage.
-- Time accuracy of a general log is up to minutes, not seconds. ***(hh:mm:00)***

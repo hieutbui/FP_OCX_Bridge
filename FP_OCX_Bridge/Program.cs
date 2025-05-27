@@ -233,16 +233,19 @@ namespace FP_OCX_Bridge
                 do
                 {
                     GeneralLogInfo gLogInfo = new GeneralLogInfo();
-                    bRet = pOcxObject.GetAllGLogData(machineNum,
+                    bRet = pOcxObject.GetAllGLogDataWithSecond(machineNum,
                         ref gLogInfo.dwTMachineNumber,
                         ref gLogInfo.dwEnrollNumber,
                         ref gLogInfo.dwEMachineNumber,
                         ref gLogInfo.dwVerifyMode,
+                        ref gLogInfo.dwInout,
+                        ref gLogInfo.dwEvent,
                         ref gLogInfo.dwYear,
                         ref gLogInfo.dwMonth,
                         ref gLogInfo.dwDay,
                         ref gLogInfo.dwHour,
-                        ref gLogInfo.dwMinute
+                        ref gLogInfo.dwMinute,
+                        ref gLogInfo.dwSecond
                     );
 
                     if (bRet)
@@ -285,11 +288,14 @@ namespace FP_OCX_Bridge
             public int dwEnrollNumber;
             public int dwEMachineNumber;
             public int dwVerifyMode;
+            public int dwInout;
+            public int dwEvent;
             public int dwYear;
             public int dwMonth;
             public int dwDay;
             public int dwHour;
             public int dwMinute;
+            public int dwSecond;
         }
     }
 }
